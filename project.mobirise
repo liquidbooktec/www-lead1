@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Semana Redação ENEM 2019",
+    "name": "Semana Redação ENEM 2019 - lead1",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -38,11 +38,11 @@
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/avatar-3-128x128-1.png",
     "noImageResize": "",
     "gdpr": "",
     "siteUrl": "http://lead1.profelipereira.com.br/",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-142756955-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-142756955-1');\r\n</script>\r\n",
     "witsec-form-subject": "SEMANA REDAÇÃO",
     "сanonical-url": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
