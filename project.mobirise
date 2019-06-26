@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-24_0917",
+    "name": "Semana Redação ENEM 2019",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -36,7 +36,19 @@
     "siteFonts": [],
     "uniqCompNum": 32,
     "versionPublish": "4.10.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "witsec-white-label": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "gdpr": "",
+    "siteUrl": "http://lead1.profelipereira.com.br/",
+    "google-analytics": "",
+    "witsec-form-subject": "SEMANA REDAÇÃO",
+    "сanonical-url": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
