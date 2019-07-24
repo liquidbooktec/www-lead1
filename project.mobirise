@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Semana Redação ENEM 2019 - lead1",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 43,
+    "uniqCompNum": 62,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
@@ -57,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Semana Redação ENEM | On-line e Gratuito",
+        "title": "Semana Redação ENEM | Gratuito & On-line",
         "meta_descr": "Do 0 ao 900 em 7 passos, faça sua inscrição!",
         "header_custom": "<!-- Facebook Pixel Code --> \n<script> \n!function(f,b,e,v,n,t,s) \n{if(f.fbq)return;n=f.fbq=function(){n.callMethod? \nn.callMethod.apply(n,arguments):n.queue.push(arguments)}; \nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; \nn.queue=[];t=b.createElement(e);t.async=!0; \nt.src=v;s=b.getElementsByTagName(e)[0]; \ns.parentNode.insertBefore(t,s)}(window, document,'script', \n'https://connect.facebook.net/en_US/fbevents.js'); \nfbq('init', '625294414626397'); \nfbq('track', 'PageView'); \n</script> \n<noscript><img height=\"1\" width=\"1\" style=\"display:none\" \n\nsrc=\"https://www.facebook.com/tr?id=625294414626397&ev=PageView&noscript=1\" \n/></noscript> \n<!-- End Facebook Pixel Code --> ",
         "footer_custom": "",
@@ -864,7 +864,7 @@
     "page1.html": {
       "settings": {
         "title": "Termos de Uso",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -889,11 +889,11 @@
           "_name": "footer1",
           "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#494949\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><i>\n                © Copyright 2019 Prof. Felipe Pereira &amp; Liquidbook Tecnologias para Publicações \n<br>CNPJ 09.628.768/0001-89 confira nossos <a href=\"page1.html\" target=\"_blank\" class=\"text-success\">Termos de Uso</a> e nossa <a href=\"page2.html\" target=\"_blank\" class=\"text-success\">Política de Privacidade</a></i></p>\n        </div>\n    </div>\n</section>",
           "_cid": "ruk1Ly9ElI",
+          "_anchor": "footer1-12",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-12"
+          "_params": {}
         },
         {
           "alias": false,
@@ -925,7 +925,7 @@
     "page2.html": {
       "settings": {
         "title": "Política de Privacidade",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -950,11 +950,11 @@
           "_name": "footer1",
           "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#494949\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><i>\n                © Copyright 2019 Prof. Felipe Pereira &amp; Liquidbook Tecnologias para Publicações \n<br>CNPJ 09.628.768/0001-89 confira nossos <a href=\"page1.html\" target=\"_blank\" class=\"text-success\">Termos de Uso</a> e nossa <a href=\"page2.html\" target=\"_blank\" class=\"text-success\">Política de Privacidade</a></i></p>\n        </div>\n    </div>\n</section>",
           "_cid": "rxbG0xQLAi",
+          "_anchor": "footer1-14",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-14"
+          "_params": {}
         },
         {
           "alias": false,
