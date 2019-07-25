@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Semana Redação ENEM 2019 - lead1",
-    "currentPage": "index.html",
+    "currentPage": "politica-de-privacidade.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.3",
     "siteFonts": [],
-    "uniqCompNum": 62,
+    "uniqCompNum": 43,
     "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "witsec-white-label": "on",
@@ -861,10 +861,11 @@
         }
       ]
     },
-    "page1.html": {
+    "termos-de-uso.html": {
       "settings": {
         "title": "Termos de Uso",
-        "order": 2
+        "order": 2,
+        "meta_descr": "Termos de uso do site do Prof. Felipe Pereira"
       },
       "components": [
         {
@@ -922,10 +923,11 @@
         }
       ]
     },
-    "page2.html": {
+    "politica-de-privacidade.html": {
       "settings": {
         "title": "Política de Privacidade",
-        "order": 3
+        "order": 3,
+        "meta_descr": "Política de Privacidade do site do Prof. Felipe Pereira"
       },
       "components": [
         {
